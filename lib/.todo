@@ -3,4 +3,7 @@
     <note priority="medium" time="1333099875">
         Look at http://aws.typepad.com/aws/2012/03/the-1000-genomes-project.html
     </note>
+    <note priority="low" time="1333100041">
+        http://samtools.sourceforge.net/
+    </note>
 </todo>
